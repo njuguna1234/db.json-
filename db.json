@@ -1,0 +1,33 @@
+{
+    "artworks": [
+      {
+        "id": 1,
+        "title": "Sunset Painting",
+        "description": "A beautiful sunset over the mountains.",
+        "price": 150,
+        "artist": "John Doe"
+      },
+      {
+        "id": 2,
+        "title": "Ocean Waves",
+        "description": "Blue ocean waves crashing against the shore.",
+        "price": 200,
+        "artist": "Jane Smith"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "email": "buyer@example.com",
+        "password": "password123",
+        "role": "buyer"
+      },
+      {
+        "id": 2,
+        "email": "artist@example.com",
+        "password": "password123",
+        "role": "artist"
+      }
+    ]
+  }
+  
